@@ -5,7 +5,7 @@ https://rpubs.com/shutupandtakemydata/763814
 ![Alt text](images/EPIViz.jpg)
 
 Creating a clearer visualisation of the World Environmental Performance Index (EPI)
-Environmental Performance Visualization
+
 Objective
 This visualization aims to provide an overview of environmental performance across countries worldwide. It seeks to inform viewers about their country’s ecological health and sustainability status.
 
@@ -21,6 +21,9 @@ The use of a single color gradient to represent how “green” a country is ove
 Map Distortions and Comparability Issues:
 The map projections distort country sizes, emphasizing some while downplaying others. Combined with varying country sizes and the number of observations, this makes direct comparisons difficult.
 
-Reference
+The visualisation was made using R and Environmental Performance Index data.
+
+References
+
 Galetan. (2019, March 20). [OC] How green is your country? A look at the Environmental Performance Index (EPI) Scores Worldwide. Retrieved April 15, 2021, from Reddit:
 https://www.reddit.com/r/dataisbeautiful/comments/b2xv3c/oc_how_green_is_your_country_a_look_at_the/
