@@ -2,6 +2,8 @@
 
 https://rpubs.com/shutupandtakemydata/763814
 
+![Alt text](images/EPIViz.jpg)
+
 Creating a clearer visualisation of the World Environmental Performance Index (EPI)
 Environmental Performance Visualization
 Objective
